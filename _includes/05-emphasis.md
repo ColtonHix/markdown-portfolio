@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*fancy* <br>
+**angry** <br>
+***tilted as hek :tada:***
